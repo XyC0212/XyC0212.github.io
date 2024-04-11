@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 陈翔宇
+title: Xiangyu Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Xiangyu Chen
+# name_pronunciation: Xiangyu Chen
 
 # Full name (for SEO)
 first_name: Xiangyu 

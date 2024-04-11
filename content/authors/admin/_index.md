@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈翔宇
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiangyu Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiangyu 
+last_name: Chen
 
 # Status emoji
 status:
@@ -21,30 +21,30 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SAIR Lab
+    url: https://sairlab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robot navigation, motion planning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Navigation
+  - Motion Planning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Intern
+      institution: SAIR Lab
+      year: present
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Shandong University
+      year: 2023
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,7 +56,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: ROS
         description: ''
         percent: 100
         icon: chart-line
@@ -70,17 +70,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: basketball
         icon_pack: fas
-      - name: Cats
+      - name: Food
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Traveral
         description: ''
         percent: 80
         icon: camera-retro
@@ -114,11 +114,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiangyu Chen is a remote intern in SAIR Lab under the guidance of Professor Chen Wang. His research interests include path planning, robot navigation and robot learning. 
 {style="text-align: justify;"}

@@ -17,16 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a **Ph.D student** in the Multimodal AI Research Society (MARS) Lab, School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore, advised by [Prof. Jianfei Yang](https://marsyang.site/) (Stanford World’s Top 2% Scientists). I also collaborate closely with [Prof. Chen Wang](https://sairlab.org/chenw/) and [Prof. Chaoqun Wang](https://zychaoqun.wixsite.com/chaoqun).
 
+Prior to NTU, I obtained my MEng degree in Control Science and Engineering from **Shandong University** and received a BSc degree in Electrical Engineering and Automation from the **University of Jinan**. In the past, I focused on the pratical robot applications in the field of mobile robots.
 
+Now, I am focusing on the development of **embodied AI agents for Life Science**, combining Foundation Models and Robotic Arm in the Chem/Bio lab automation. Specifically, I hope to build a robust, safe, user-friendly embodied AI agent to help the biochemical researchers finishing some repetitive and boring work, like what copilot does for programmers and ChatGPT for writers.
+
+During my spare time, I enjoy any sports, especially **basketball**, and playing video games, especially the Roguelike games and Pokemon. Now, I begin to explore the photography as most Ph.D students~
+
+My research interest includes robotic navigation, motion planning, and embodied AI. I have published more than 1 papers at the top robotics journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Feel free to send me an email at [cxy980212@gmail.com](cxy980212@gmail.com) if our interests align and I'm delighted to any collaboration and discussion oppertounities.
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Receive the offer of NTU, begin my Ph.D study in 2025. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,16 +49,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*, National Scholarship for graduates, (**Top 1%**)
+- *2022*, CUBA (Shandong) the third price 
+- *2020*, National Scholarship for undergraduates, (**Top 1%**)
+- *2020*, Songjian Scholarship, (**Top 0.1%**)
+- *2019*, Meritorious Winner in American Mathematical Contest
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.06*, Master, Shandong University. 
+- *2016.09 - 2020.06*, Undergraduate, University of Jinan, Jinan. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.11 - 2025.01*, MegaRobo, Beijing, China.
+- *2024.05 - 2024.08*, Realman, Beijing, China.
+- *2023.09 - 2024.09*, SAIR Lab, Jinan, China.
+- *2020.05 - 2020.07*, Yobotics, Jinan, China.

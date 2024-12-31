@@ -34,7 +34,7 @@ Feel free to send me an email at [cxy980212@gmail.com](cxy980212@gmail.com) if o
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/iastar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/iastar.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [iA∗: Imperative Learning-based A∗ Search for Pathfinding](https://arxiv.org/pdf/2403.15870)

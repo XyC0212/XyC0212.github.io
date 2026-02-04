@@ -30,6 +30,8 @@ My research interest includes robotic navigation, motion planning, and embodied 
 
 Feel free to send me an email at [cxy980212@gmail.com](cxy980212@gmail.com) if our interests align and I'm delighted to any collaboration and discussion oppertounities.
 # 🔥 News
+- *2026.1*: "RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation" is accepted by ICRA 2026!
+- *2025.10*: "iA*: Imperative Learning-based A∗ Search for Pathfinding" is accepted by RAL!
 - *2024.12*: &nbsp;🎉🎉 Receive the offer of NTU, begin my Ph.D study in 2025. 
 
 # 📝 Selected Publications 

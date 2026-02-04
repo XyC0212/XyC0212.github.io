@@ -34,6 +34,13 @@ Feel free to send me an email at [cxy980212@gmail.com](cxy980212@gmail.com) if o
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/rmrl.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation](https://arxiv.org/pdf/2510.15189)
+
+**Xiangyu Chen**, Chuhao Zhou, Yuxi Liu, Jianfei Yang
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/iastar.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 

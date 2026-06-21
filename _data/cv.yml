@@ -1,0 +1,103 @@
+cv:
+  name: Xiangyu Chen
+  label: Ph.D. Student
+  email: cxy980212@gmail.com
+  location: Singapore
+  image: prof_pic.jpg
+  summary: Ph.D. student at the MARS Lab, Nanyang Technological University, working on embodied AI, robot manipulation, and robotic navigation.
+
+  social_networks:
+    - network: GitHub
+      username: XyC0212
+
+  sections:
+    Education:
+      - institution: Nanyang Technological University
+        location: Singapore
+        url: https://www.ntu.edu.sg/
+        area: Mechanical and Aerospace Engineering (MARS Lab)
+        studyType: Ph.D.
+        start_date: 2025
+        end_date: present
+        highlights:
+          - Embodied AI agents for Life Science, combining Foundation Models and Robotic Arms for Chem/Bio lab automation.
+          - Advised by Prof. Jianfei Yang.
+
+      - institution: Shandong University
+        location: Jinan, China
+        url: https://www.sdu.edu.cn/
+        area: Control Science and Engineering
+        studyType: MEng
+        start_date: 2020
+        end_date: 2023
+
+      - institution: University of Jinan
+        location: Jinan, China
+        url: https://www.ujn.edu.cn/
+        area: Electrical Engineering and Automation
+        studyType: BSc
+        start_date: 2016
+        end_date: 2020
+
+    Experience:
+      - company: MegaRobo
+        position: Research Intern
+        location: Beijing, China
+        start_date: 2024-11
+        end_date: 2025-01
+
+      - company: Realman
+        position: Research Intern
+        location: Beijing, China
+        start_date: 2024-05
+        end_date: 2024-08
+
+      - company: SAIR Lab
+        position: Research Intern
+        location: Jinan, China
+        start_date: 2023-09
+        end_date: 2024-09
+
+      - company: Yobotics
+        position: Research Intern
+        location: Jinan, China
+        start_date: 2020-05
+        end_date: 2020-07
+
+    Awards:
+      - title: National Scholarship for Graduate Students (Top 1%)
+        date: 2023
+        awarder: Ministry of Education, China
+
+      - title: CUBA (Shandong) — Third Place
+        date: 2022
+        awarder: Chinese University Basketball Association
+
+      - title: National Scholarship for Undergraduates (Top 1%)
+        date: 2020
+        awarder: Ministry of Education, China
+
+      - title: Songjian Scholarship (Top 0.1%)
+        date: 2020
+        awarder: University of Jinan
+
+      - title: Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM)
+        date: 2019
+        awarder: COMAP
+
+    Skills:
+      - name: Research
+        icon: fa-solid fa-robot
+        keywords: "Embodied AI, Robot Manipulation, Robotic Navigation, Motion Planning, Reinforcement Learning, Foundation Models"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Hobbies
+        icon: fa-solid fa-basketball
+        keywords: "Basketball, Roguelike & Pokémon games, Photography"

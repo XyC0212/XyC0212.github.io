@@ -6,16 +6,16 @@ Built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 
 ## Content map
 
-| What | Where |
-| --- | --- |
-| Bio / home page | `_pages/about.md` |
-| News | `_news/announcement_*.md` |
-| Publications | `_bibliography/papers.bib` |
-| CV (rendered) | `_data/cv.yml` (+ `_pages/cv.md`) |
-| CV PDF | `assets/pdf/cv.pdf` (replace the placeholder) |
-| Identity / site config | `_config.yml` |
-| Social & contact links | `_data/socials.yml` |
-| Profile photo & paper previews | `assets/img/` |
+| What                           | Where                                         |
+| ------------------------------ | --------------------------------------------- |
+| Bio / home page                | `_pages/about.md`                             |
+| News                           | `_news/announcement_*.md`                     |
+| Publications                   | `_bibliography/papers.bib`                    |
+| CV (rendered)                  | `_data/cv.yml` (+ `_pages/cv.md`)             |
+| CV PDF                         | `assets/pdf/cv.pdf` (replace the placeholder) |
+| Identity / site config         | `_config.yml`                                 |
+| Social & contact links         | `_data/socials.yml`                           |
+| Profile photo & paper previews | `assets/img/`                                 |
 
 ## Local development
 

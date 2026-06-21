@@ -88,7 +88,7 @@ cv:
     Skills:
       - name: Research
         icon: fa-solid fa-robot
-        keywords: "Embodied AI, Robot Manipulation, Robotic Navigation, Motion Planning, Reinforcement Learning, Foundation Models"
+        keywords: "Robotic Manipulation, Dexterous Manipulation, Embodied AI, Reinforcement Learning, Foundation Models"
 
     Languages:
       - name: Chinese

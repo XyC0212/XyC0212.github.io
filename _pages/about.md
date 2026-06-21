@@ -35,4 +35,4 @@ Now, I am focusing on the development of **embodied AI agents for Life Science**
 
 In my spare time, I enjoy all kinds of sports, especially **basketball**, and playing video games, especially Roguelike games and Pokémon. Recently, I have also started to explore photography, as most Ph.D. students do~
 
-My research interests include **robotic navigation, motion planning, and embodied AI**. Feel free to send me an [email](mailto:cxy980212@gmail.com) if our interests align — I am delighted to discuss any collaboration and research opportunities.
+My research interests include **robotic manipulation and dexterous manipulation**. Feel free to send me an [email](mailto:cxy980212@gmail.com) if our interests align — I am delighted to discuss any collaboration and research opportunities.

@@ -29,10 +29,10 @@ latest_posts:
 
 I am a **Ph.D. student** in the Multimodal AI Research Society (MARS) Lab, School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore, advised by [Prof. Jianfei Yang](https://marsyang.site/) (Stanford World's Top 2% Scientists). I also collaborate closely with [Prof. Chen Wang](https://sairlab.org/chenw/) and [Prof. Chaoqun Wang](https://zychaoqun.wixsite.com/chaoqun).
 
-Prior to NTU, I obtained my MEng degree in Control Science and Engineering from **Shandong University** and received a BSc degree in Electrical Engineering and Automation from the **University of Jinan**. In the past, I focused on practical robot applications in the field of mobile robots.
+My research centers on **robotic manipulation and dexterous manipulation**. I am currently building **embodied AI agents for life science** that pair foundation models with robotic arms to automate Chem/Bio laboratory work. My goal is a robust, safe, and easy-to-use agent that takes over the repetitive bench tasks for biochemical researchers — much like Copilot assists programmers and ChatGPT assists writers.
 
-Now, I am focusing on the development of **embodied AI agents for Life Science**, combining Foundation Models and Robotic Arms in Chem/Bio lab automation. Specifically, I hope to build a robust, safe, and user-friendly embodied AI agent to help biochemical researchers finish repetitive and tedious work — like what Copilot does for programmers and ChatGPT does for writers.
+Before joining NTU, I earned my M.Eng. in Control Science and Engineering from **Shandong University** and my B.Eng. in Electrical Engineering and Automation from the **University of Jinan**, where I worked on practical applications of mobile robots.
 
-In my spare time, I enjoy all kinds of sports, especially **basketball**, and playing video games, especially Roguelike games and Pokémon. Recently, I have also started to explore photography, as most Ph.D. students do~
+Outside of research, I am a keen **basketball** player and enjoy video games — especially Roguelikes and Pokémon — and, like many Ph.D. students, I have recently taken up photography.
 
-My research interests include **robotic manipulation and dexterous manipulation**. Feel free to send me an [email](mailto:cxy980212@gmail.com) if our interests align — I am delighted to discuss any collaboration and research opportunities.
+Feel free to [email me](mailto:cxy980212@gmail.com) if our interests align — I am always happy to discuss research and potential collaborations.

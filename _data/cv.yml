@@ -30,6 +30,8 @@ cv:
         studyType: MEng
         start_date: 2020
         end_date: 2023
+        highlights:
+          - GPA 89.4/100 (Rank 1/116); National Scholarship (top 1%).
 
       - institution: University of Jinan
         location: Jinan, China
@@ -38,6 +40,9 @@ cv:
         studyType: BSc
         start_date: 2016
         end_date: 2020
+        highlights:
+          - GPA 89.7/100 (Rank 4/403); National Scholarship (top 1%), Government Scholarship (top 1%), Song Jian Scholarship (top 0.1%).
+          - "Standardized tests: TOEFL 106, GRE 319+3.5."
 
     Experience:
       - company: MegaRobo

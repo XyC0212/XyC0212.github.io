@@ -90,6 +90,10 @@ cv:
         date: 2019
         awarder: COMAP
 
+    Professional Service:
+      - label: Reviewer
+        details: "IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), International Journal of Robotics Research (IJRR), Conference on Robot Learning (CoRL)"
+
     Skills:
       - name: Research
         icon: fa-solid fa-robot

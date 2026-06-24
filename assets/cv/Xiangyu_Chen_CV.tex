@@ -1,0 +1,118 @@
+% =====================================================================
+% Curriculum Vitae - Xiangyu Chen
+% Compile with: pdflatex Xiangyu_Chen_CV.tex
+% =====================================================================
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1.7cm]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{linkblue}{RGB}{0,82,155}
+\hypersetup{colorlinks=true, urlcolor=linkblue, linkcolor=linkblue}
+
+% --- Section style: small-caps bold heading with a full-width rule ----
+\titleformat{\section}{\large\bfseries\scshape}{}{0em}{}[\vspace{-0.5em}\rule{\textwidth}{0.8pt}]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+\setlist[itemize]{leftmargin=1.4em, itemsep=1pt, topsep=2pt, parsep=0pt}
+\setlist[enumerate]{leftmargin=2.1em, itemsep=2pt, topsep=2pt, parsep=0pt}
+
+\setlength{\parindent}{0pt}
+\newcommand{\dateit}[2]{\textbf{#1}\hfill #2\par}
+
+\begin{document}
+\pagestyle{empty}
+
+% ----------------------------- Header --------------------------------
+\begin{center}
+  {\Huge\bfseries Xiangyu Chen}\\[5pt]
+  {\small Ph.D. Student, MARS Lab, School of MAE, Nanyang Technological University, Singapore}\\[4pt]
+  {\small
+    \href{mailto:cxy980212@gmail.com}{cxy980212@gmail.com}
+    \quad\textbar\quad +86\,152\,5415\,6088
+    \quad\textbar\quad \href{https://xyc0212.github.io}{xyc0212.github.io}
+    \quad\textbar\quad \href{https://scholar.google.com/citations?user=wEV8pmkAAAAJ}{Google Scholar}
+    \quad\textbar\quad \href{https://github.com/XyC0212}{GitHub}
+  }
+\end{center}
+
+% ---------------------------- Education ------------------------------
+\section{Education}
+\dateit{Nanyang Technological University, Singapore}{2025 -- Present}
+Ph.D. in Mechanical and Aerospace Engineering (MARS Lab). Advisor: Prof.\ Jianfei Yang.
+
+\smallskip
+\dateit{Shandong University, Jinan, China}{Sep 2020 -- Jun 2023}
+M.Eng.\ in Control Science and Engineering. GPA: 89.4/100 (Rank 1/116). National Scholarship (top 1\%).
+
+\smallskip
+\dateit{University of Jinan, Jinan, China}{Sep 2016 -- Jun 2020}
+B.Eng.\ in Electrical Engineering and Automation. GPA: 89.7/100 (Rank 4/403). National Scholarship (top 1\%), Government Scholarship (top 1\%), Song Jian Scholarship (top 0.1\%).
+
+\smallskip
+\textbf{Standardized Tests:} TOEFL 106 (R29 / L27 / S23 / W27); GRE 319 + 3.5.
+
+% ------------------------ Research Interests -------------------------
+\section{Research Interests}
+Robotic manipulation, dexterous manipulation, embodied AI, and imitation/reinforcement learning for robot policy learning.
+
+% ---------------------------- Publications ---------------------------
+\section{Publications}
+{\small \textbf{Bold} denotes the author. ($^{\dagger}$ co-first author where applicable.)}
+\begin{enumerate}[label={[\arabic*]}]
+  \item \textbf{X.\ Chen}, Y.\ Hu, C.\ Zhou, J.\ Yang. ``Rethinking Implicit Spatial Representation in Visuomotor Policy Learning.'' \textit{arXiv:2606.15232}, 2026.
+  \item J.\ Li, Y.\ Hu, H.\ Geng, \textbf{X.\ Chen}, C.\ Zhou, Z.\ Cui, J.\ Yang. ``M\textsuperscript{3}A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering.'' \textit{IEEE/CVF CVPR (Findings)}, 2026.
+  \item J.\ Jia, T.\ An, Y.\ Hu, G.\ Li, J.\ Li, B.\ Hou, \textbf{X.\ Chen}, J.\ Bai, B.\ Lyu, J.\ Yang. ``MARS Policy: Multimodality Only When It Matters.'' \textit{arXiv:2605.29766}, 2026.
+  \item J.\ Bai, J.\ Jia, Y.\ Hu, G.\ Li, \textbf{X.\ Chen}, T.\ An, K.\ Zuo, J.\ Yang. ``FLASH: Efficient Visuomotor Policy via Sparse Sampling.'' \textit{arXiv:2605.15492}, 2026.
+  \item J.\ Jia, G.\ Li, \textbf{X.\ Chen}, T.\ An, Y.\ Hu, J.\ Li, X.\ Guo, J.\ Yang. ``A2A: Action-to-Action Flow Matching for Robot Policy Learning.'' \textit{Robotics: Science and Systems (RSS)}, 2026.
+  \item \textbf{X.\ Chen}, C.\ Zhou, Y.\ Liu, J.\ Yang. ``RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation.'' \textit{IEEE Int.\ Conf.\ on Robotics and Automation (ICRA)}, 2026.
+  \item \textbf{X.\ Chen}, F.\ Yang, C.\ Wang. ``iA*: Imperative Learning-based A* Search for Pathfinding.'' \textit{IEEE Robotics and Automation Letters (RA-L)}, 2025.
+  \item C.\ Wang, \textbf{X.\ Chen}, C.\ Li, R.\ Song, Y.\ Li, M.\ Q.-H.\ Meng. ``Chase and Track: Toward Safe and Smooth Trajectory Planning for Robotic Navigation in Dynamic Environments.'' \textit{IEEE Trans.\ on Industrial Electronics}, 70(1):604--613, 2022.
+  \item \textbf{X.\ Chen}, J.\ Liu, J.\ Wu, C.\ Wang, R.\ Song. ``LoPF: An Online LiDAR-Only Person-Following Framework.'' \textit{IEEE Trans.\ on Instrumentation and Measurement}, 71:1--13, 2022.
+  \item \textbf{X.\ Chen}, Y.\ Wang, C.\ Wang, R.\ Song, Y.\ Li. ``Low-drift LiDAR-only Odometry and Mapping for UGVs in Environments with Non-level Roads.'' \textit{IEEE/RSJ IROS}, pp.\ 13174--13180, 2022.
+  \item Y.\ Wang, M.\ Xu, \textbf{X.\ Chen}, X.\ Zhang, C.\ Wang, R.\ Song. ``Information Map Prediction based on Learning Network for Reinforced Autonomous Exploration.'' \textit{IEEE ROBIO}, pp.\ 1982--1988, 2022.
+\end{enumerate}
+
+% ----------------------------- Experience ----------------------------
+\section{Experience}
+\dateit{Graduate Research --- MARS Lab, Nanyang Technological University}{2025 -- Present}
+\begin{itemize}
+  \item Embodied AI agents for life science: robotic and dexterous manipulation, and visuomotor policy learning that pairs foundation models with robotic arms for Chem/Bio lab automation.
+\end{itemize}
+
+\dateit{Research Intern --- MegaRobo, Beijing, China}{Nov 2024 -- Jan 2025}
+\dateit{Research Intern --- Realman, Beijing, China}{May 2024 -- Aug 2024}
+
+\dateit{Research Intern (Remote) --- SAIR Lab}{Sep 2023 -- Sep 2024}
+\begin{itemize}
+  \item Imperative-learning-based A* pathfinding; contributed Spline and ICP modules to the open-source PyPose library.
+\end{itemize}
+
+\dateit{Graduate Research --- Shandong University}{2020 -- 2023}
+\begin{itemize}
+  \item LiDAR SLAM and localization on non-level roads, safe and smooth trajectory planning, and LiDAR-only person-following for mobile and quadruped robots.
+\end{itemize}
+
+\dateit{Research Intern --- Yobotics, Jinan, China}{May 2020 -- Jul 2020}
+
+% --------------------------- Honors & Awards -------------------------
+\section{Honors \& Awards}
+\begin{itemize}
+  \item National Scholarship for Graduate Students (top 1\%), 2023
+  \item CUBA (Shandong) --- Third Place, 2022
+  \item National Scholarship for Undergraduates (top 1\%), 2020
+  \item Song Jian Scholarship (top 0.1\%), 2020
+  \item Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM), 2019
+\end{itemize}
+
+% -------------------------- Professional Service ---------------------
+\section{Professional Service}
+Reviewer: IEEE Robotics and Automation Letters (RA-L); International Journal of Robotics Research (IJRR).
+
+\vfill
+{\footnotesize\color{gray}Last updated: June 2026.}
+
+\end{document}

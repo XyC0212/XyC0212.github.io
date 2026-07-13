@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-13'
 papers:
   wEV8pmkAAAAJ:2osOgNQ5qMEC:
     citations: 9
     title: 'PyPose v0. 6: The imperative programming interface for robotics'
     year: '2023'
   wEV8pmkAAAAJ:9yKSN-GCB0IC:
-    citations: 18
+    citations: 19
     title: A person-following method based on monocular camera for quadruped robots
     year: '2022'
   wEV8pmkAAAAJ:IjCSPb-OGe4C:
-    citations: 32
+    citations: 35
     title: 'Imperative learning: A self-supervised neuro-symbolic learning framework for robot autonomy'
     year: '2024'
   wEV8pmkAAAAJ:LkGwnXOMwfcC:
@@ -18,11 +18,11 @@ papers:
     title: Rethinking Implicit Spatial Representation in Visuomotor Policy Learning
     year: '2026'
   wEV8pmkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: 'RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation'
     year: '2025'
   wEV8pmkAAAAJ:UeHWp8X0CEIC:
-    citations: 11
+    citations: 13
     title: 'iA*: Imperative Learning-based A* Search for Pathfinding'
     year: '2025'
   wEV8pmkAAAAJ:W7OEmFMy1HYC:
@@ -34,15 +34,15 @@ papers:
     title: 'FLASH: Efficient Visuomotor Policy via Sparse Sampling'
     year: '2026'
   wEV8pmkAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 2
     title: 'M^ 3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
     year: '2026'
   wEV8pmkAAAAJ:YsMSGLbcyi4C:
-    citations: 2
-    title: Action-to-Action Flow Matching
+    citations: 4
+    title: Action-to-action flow matching
     year: '2026'
   wEV8pmkAAAAJ:d1gkVwhDpl0C:
-    citations: 49
+    citations: 51
     title: 'Chase and track: Toward safe and smooth trajectory planning for robotic navigation in dynamic environments'
     year: '2022'
   wEV8pmkAAAAJ:eQOLeE2rZwMC:
@@ -58,7 +58,7 @@ papers:
     title: Low-drift LiDAR-only odometry and mapping for UGVs in environments with non-level roads
     year: '2022'
   wEV8pmkAAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: 'LoPF: An online LiDAR-only person-following framework'
     year: '2022'
   wEV8pmkAAAAJ:ufrVoPGSRksC:

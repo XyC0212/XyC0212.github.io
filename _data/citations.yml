@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-29'
 papers:
   wEV8pmkAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -10,7 +10,7 @@ papers:
     title: A person-following method based on monocular camera for quadruped robots
     year: '2022'
   wEV8pmkAAAAJ:IjCSPb-OGe4C:
-    citations: 35
+    citations: 37
     title: 'Imperative learning: A self-supervised neuro-symbolic learning framework for robot autonomy'
     year: '2024'
   wEV8pmkAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: 'RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation'
     year: '2025'
   wEV8pmkAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 14
     title: 'iA*: Imperative Learning-based A* Search for Pathfinding'
     year: '2025'
   wEV8pmkAAAAJ:W7OEmFMy1HYC:
@@ -35,10 +35,10 @@ papers:
     year: '2026'
   wEV8pmkAAAAJ:Y0pCki6q_DkC:
     citations: 2
-    title: 'M^ 3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
-    year: '2026'
+    title: ' Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
+    year: '2025'
   wEV8pmkAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 11
     title: Action-to-action flow matching
     year: '2026'
   wEV8pmkAAAAJ:d1gkVwhDpl0C:

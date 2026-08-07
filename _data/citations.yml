@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-07'
 papers:
   wEV8pmkAAAAJ:2osOgNQ5qMEC:
-    citations: 9
-    title: 'PyPose v0. 6: The imperative programming interface for robotics'
+    citations: 10
+    title: 'Pypose v0. 6: The imperative programming interface for robotics'
     year: '2023'
   wEV8pmkAAAAJ:9yKSN-GCB0IC:
     citations: 19
     title: A person-following method based on monocular camera for quadruped robots
     year: '2022'
   wEV8pmkAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 40
     title: 'Imperative learning: A self-supervised neuro-symbolic learning framework for robot autonomy'
     year: '2024'
   wEV8pmkAAAAJ:LkGwnXOMwfcC:
@@ -35,14 +35,14 @@ papers:
     year: '2026'
   wEV8pmkAAAAJ:Y0pCki6q_DkC:
     citations: 2
-    title: ' Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
-    year: '2025'
+    title: 'M^ 3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
+    year: '2026'
   wEV8pmkAAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 12
     title: Action-to-action flow matching
     year: '2026'
   wEV8pmkAAAAJ:d1gkVwhDpl0C:
-    citations: 51
+    citations: 49
     title: 'Chase and track: Toward safe and smooth trajectory planning for robotic navigation in dynamic environments'
     year: '2022'
   wEV8pmkAAAAJ:eQOLeE2rZwMC:

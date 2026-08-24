@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   wEV8pmkAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -38,7 +38,7 @@ papers:
     title: 'M^ 3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering'
     year: '2026'
   wEV8pmkAAAAJ:YsMSGLbcyi4C:
-    citations: 12
+    citations: 13
     title: Action-to-action flow matching
     year: '2026'
   wEV8pmkAAAAJ:d1gkVwhDpl0C:

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   wEV8pmkAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -22,7 +22,7 @@ papers:
     title: 'RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation'
     year: '2025'
   wEV8pmkAAAAJ:UeHWp8X0CEIC:
-    citations: 14
+    citations: 15
     title: 'iA*: Imperative Learning-based A* Search for Pathfinding'
     year: '2025'
   wEV8pmkAAAAJ:W7OEmFMy1HYC:
